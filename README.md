@@ -1,1 +1,1 @@
-# java-application-with-OpenAi
+# Java-application-with-OpenAi
